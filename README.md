@@ -1,4 +1,16 @@
-# Rainbow-Six-Full-Cheat-Source (Overflow Cheats)
+# Disclaimer
+
+This project is provided for educational and research purposes only. By accessing or using this repository, you agree to the following:
+
+    You will not use this code in any way that violates applicable laws or terms of service of any software or service.
+    The author is not responsible for any misuse of this project or any consequences resulting from its use.
+
+## If you are a potential employer:
+This project showcases my programming skills, problem-solving abilities, and interest in reverse engineering. It is not an endorsement of any illegal or unethical activities.
+
+
+
+## Rainbow-Six-Full-Cheat-Source (Overflow Cheats)
 ###### Just a long project which I stopped working on. Can bypass most anti-cheats with the only detection vector being the creation of a system thread. Project is very, very, messy
 
 - **If your going to use this its not ready to paste, you'll need to setup a MySql database (unless you just delete the method of using a database and just put a hard coded password), preferably from Microsofts Azure service (ez and cheap).** 
